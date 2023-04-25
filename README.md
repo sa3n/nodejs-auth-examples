@@ -41,4 +41,5 @@ curl localhost:3000/dashboard -H "Authorization: Bearer <your token>"
 ## Todo
 * CSRF
 * Helmet
+* JWT: fix html files, add refresh token?
 
